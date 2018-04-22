@@ -1,0 +1,11 @@
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.exe
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.pdb
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.csprojResolveAssemblyReference.cache
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.MainFrm.resources
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Properties.Resources.resources
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.csproj.GenerateResource.Cache
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.exe
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.pdb
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.GraphControl.resources
+c:\users\assange\documents\visual studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.OptionsControl.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsApplication\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.DisplayDataControl.resources
