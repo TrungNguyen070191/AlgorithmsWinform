@@ -48,7 +48,7 @@ namespace AlgorithmsApplication
             displayDataModule.Dock = DockStyle.Fill;
             for (int i = 0; i <= Globalgraph.len; i++)
             {
-                Globalgraph.Ketqua += "next->" + Mangdfs[i].ToString() + Environment.NewLine;
+                Globalgraph.Ketqua += "\n next->" + Mangdfs[i].ToString() + Environment.NewLine;
                 
             }
             

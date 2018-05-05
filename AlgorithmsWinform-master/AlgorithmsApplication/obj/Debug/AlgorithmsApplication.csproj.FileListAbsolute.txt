@@ -19,3 +19,14 @@ E:\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplicatio
 E:\AlgorithmsWinform-master\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.exe
 E:\AlgorithmsWinform-master\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.pdb
 E:\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.OptionsControl.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.exe
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.pdb
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.exe
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\bin\Debug\AlgorithmsApplication.pdb
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.MainFrm.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.DisplayDataControl.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.GraphControl.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Properties.Resources.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.Modules.OptionsControl.resources
+C:\Users\Assange\Documents\Visual Studio 2013\Projects\AlgorithmsWinform.git\trunk\AlgorithmsWinform-master\AlgorithmsApplication\obj\Debug\AlgorithmsApplication.csproj.GenerateResource.Cache
